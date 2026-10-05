@@ -24,3 +24,9 @@ Nesta lista há questões sobre as funções anteriores, além da adição de CO
 
 Second activity list for Programming Lab 2, using the Python programming language as the object of study.
 In this list, there are questions about the previous functions, along with the addition of CONDITIONALS and LOOPS, among other functions.
+
+Atvd em asa - Homework:
+
+Atividade de criação de sistema de compra e venda de produtos realizado em sala de aula e finalizado em casa. Nele é possível realizar cadastro de pessoas, contendo nome, e-mail e senha; cadastro de produtos, com nome, valor e descrição do produto; bem como compra por parte de cliente ou venda por parte de funcionário.
+
+Activity of creating a product buying and selling system carried out in the classroom and finished at home. In it, it is possible to register people, containing name, email, and password; register products, with product name, price, and description; as well as making purchases by a customer or sales by an employee.
