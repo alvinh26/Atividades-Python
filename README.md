@@ -30,3 +30,9 @@ Atvd em asa - Homework:
 Atividade de criação de sistema de compra e venda de produtos realizado em sala de aula e finalizado em casa. Nele é possível realizar cadastro de pessoas, contendo nome, e-mail e senha; cadastro de produtos, com nome, valor e descrição do produto; bem como compra por parte de cliente ou venda por parte de funcionário.
 
 Activity of creating a product buying and selling system carried out in the classroom and finished at home. In it, it is possible to register people, containing name, email, and password; register products, with product name, price, and description; as well as making purchases by a customer or sales by an employee.
+
+Atividade 3 - Homework 3:
+
+Terceira lista de atividades referente a aula de Lab. Programação 2, que usa como objeto de estudo a linguagem de programação Python. Nesta lista há questões sobre as sintaxes anteriores além da adição de TRATAMENTO DE ERROS, além de DEFINIÇÃO DE FUNÇÕES.
+
+Third activity list regarding the Programming Lab. 2 class, which uses the Python programming language as its object of study. This list includes questions about previous syntaxes, in addition to the inclusion of ERROR HANDLING and FUNCTION DEFINITION.
